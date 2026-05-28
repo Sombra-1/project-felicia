@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "Project Felicia: Public Research Archive"
+message: "If you use or discuss this research, please cite it as below."
+type: report
+authors:
+  - family-names: "AY"
+    given-names: "Ayhm"
+    alias: "Sombra-1"
+year: 2026
+abstract: "A curated public research archive documenting Project Felicia, a persistent autonomous AI-agent experiment focused on continuity, memory, self-modification, uncertainty, and human-agent interpretation."
+license: "CC-BY-NC-ND-4.0"
+keywords:
+  - artificial consciousness
+  - autonomous agents
+  - human-AI interaction
+  - AI alignment
+  - self-modeling
+  - agent continuity
