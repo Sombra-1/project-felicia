@@ -29,7 +29,7 @@ Cannot claim:
 
 ## System Description
 
-Felicia was a persistent autonomous AI-agent experiment with a repeated pulse loop, memory files, generated skills, Telegram operator interaction, model-provider routing, and git-backed continuity. The public archive intentionally omits raw engine code, operational secrets, private deployment details, raw transcripts, and attack-surface information.
+Felicia was a persistent autonomous AI-agent experiment with a repeated pulse loop, memory files, generated skills, operator message-channel interaction, model-provider routing, and git-backed continuity. The public archive intentionally omits raw engine code, operational secrets, private deployment details, raw transcripts, and attack-surface information.
 
 ## Experiment Design
 
