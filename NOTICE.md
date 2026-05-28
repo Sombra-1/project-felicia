@@ -1,6 +1,6 @@
 # Notice
 
-Copyright (c) 2026 Ayhm AY / Sombra-1.
+Copyright (c) 2026 Aiham El-Waeli / Ayhm / Sombra-1.
 
 All rights reserved except where explicitly licensed.
 
@@ -20,5 +20,5 @@ Not permitted without written permission:
 - representing Project Felicia as proof of artificial consciousness
 - republishing raw private logs
 - using private operational details
-- impersonating Ayhm AY, Sombra-1, Project Felicia, or Felicia
+- impersonating Aiham El-Waeli, Ayhm, Sombra-1, Project Felicia, or Felicia
 - using excerpts out of context to claim the author believes Felicia is conscious

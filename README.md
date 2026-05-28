@@ -65,7 +65,7 @@ When a claim sounds dramatic, check whether it is marked as evidence, interpreta
 
 Use `CITATION.cff` for citation metadata. Suggested short citation:
 
-Ayhm AY / Sombra-1. 2026. "Project Felicia: Public Research Archive."
+El-Waeli, Aiham. 2026. "Project Felicia: Public Research Archive." Alias: Ayhm / Sombra-1.
 
 ## License
 
